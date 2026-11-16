@@ -1,0 +1,9 @@
+{
+  "name": "residence-trip-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.12.3",
+  "workspaces": [
+    "apps/*"
+  ]
+}
